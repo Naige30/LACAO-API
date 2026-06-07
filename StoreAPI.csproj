@@ -12,15 +12,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Reference Include="CRUDStoreDataService">
-      <HintPath>..\..\..\OneDrive\Documents\GitHub\Lacao\StoreAppService\bin\Debug\net8.0\CRUDStoreDataService.dll</HintPath>
-    </Reference>
-    <Reference Include="StoreAppService">
-      <HintPath>..\..\..\OneDrive\Documents\GitHub\Lacao\StoreAppService\bin\Debug\net8.0\StoreAppService.dll</HintPath>
-    </Reference>
-    <Reference Include="StoreModels">
-      <HintPath>..\..\..\OneDrive\Documents\GitHub\Lacao\StoreAppService\bin\Debug\net8.0\StoreModels.dll</HintPath>
-    </Reference>
+
   </ItemGroup>
 
 </Project>

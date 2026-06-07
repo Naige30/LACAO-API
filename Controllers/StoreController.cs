@@ -12,7 +12,7 @@ namespace StoreAPI.Controllers
     public class StoreController : ControllerBase
     {
         private readonly StoreService _storeService;
-
+       
         public StoreController()
         {
             _storeService = new StoreService();
